@@ -1,0 +1,10 @@
+<template name="22239b45">
+  <view class="_div data-v-49b9c415">
+    <i-tab-bar class="_i-tab-bar data-v-49b9c415 footer" current="index" color="#7690f9" bindchange="handleProxy" data-eventid="{{'0'}}" data-comkey="{{$k}}">
+      <i-tab-bar-item key="index" icon="brush_fill" current-icon="brush_fill" title="报修" class="_i-tab-bar-item data-v-49b9c415"></i-tab-bar-item>
+      <i-tab-bar-item key="chat" icon="interactive" current-icon="interactive" title="联系我们" class="_i-tab-bar-item data-v-49b9c415"></i-tab-bar-item>
+      <i-tab-bar-item key="home" icon="homepage" current-icon="homepage" title="提交" class="_i-tab-bar-item data-v-49b9c415"></i-tab-bar-item>
+    </i-tab-bar>
+    <i-message id="message" class="_i-message data-v-49b9c415"></i-message>
+  </view>
+</template>

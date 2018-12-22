@@ -1,0 +1,6 @@
+i-tab-bar {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  border: 2rpx solid #d6d7de;
+}

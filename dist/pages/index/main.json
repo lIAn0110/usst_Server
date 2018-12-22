@@ -1,0 +1,13 @@
+{
+    "usingComponents": {
+        "i-button": "/static/iview/button/index",
+        "i-alert": "/static/iview/alert/index",
+        "i-icon": "/static/iview/icon/index",
+        "i-tab-bar": "/static/iview/tab-bar/index",
+        "i-tab-bar-item": "/static/iview/tab-bar-item/index",
+        "i-steps": "/static/iview/steps/index",
+        "i-step": "/static/iview/step/index",
+        "i-message": "/static/iview/message/index",
+        "van-dialog": "/static/zent/dialog/index"
+    }
+}
